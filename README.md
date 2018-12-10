@@ -9,9 +9,14 @@ Introduction
 
 Material needed
 ***************
-- Arduino nano
-- 433 Mhz emitter
+- Arduino nano (from amazon)
+- 433 Mhz emitter : FS1000a (from amazon)
 - IR receiver : https://www.dfrobot.com/product-351.html (from amazon)
+- power source (5V by mini USB)
+
+Arduino wiring
+**************
+<img src="https://github.com/alexbelgium/Hob2hood_to_Novy/blob/master/Arduino_wiring.jpg" width="250">
 
 Instructions
 ************
