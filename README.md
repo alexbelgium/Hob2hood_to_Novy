@@ -16,7 +16,7 @@ Material needed
 
 Arduino wiring
 **************
-<img src="https://github.com/alexbelgium/Hob2hood_to_Novy/blob/master/Arduino_wiring.jpg" width="250">
+<img src="https://github.com/alexbelgium/Hob2hood_to_Novy/blob/master/Arduino_wiring.jpg" width="500">
 
 Instructions
 ************
