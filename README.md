@@ -1,9 +1,25 @@
 # Hob2hood_to_Novy
 Seamless connection of AEG hob and Novy hood by converting IR to 433 Mhz
 
-Protocols:
+Introduction
+************
 - AEG hob uses the hob2hood protocol and communicates through IR codes.
 - Novy hood communicates through a proprietary 433Mhz protocol.
+- The aim of this project is to allow the AEG hob to communicate with Novy by interpreting the IR commands and translating them to the 433 Mhz protocol
+
+Material needed
+***************
+- Arduino nano
+- 433 Mhz emitter
+- IR receiver
+
+Instructions
+************
+- Connect IR receiver on arduino nano
+- Connect 433Mhz emitter on arduino nano
+- Install RCSwitch_novy.zip as a custom library
+- Install Hob2hood_to_Novy.ino as a script
+- Upload on arduino nano
 
 Based on:
 - https://github.com/martijndierckx/novy-433 : command Novy hood from rpi
