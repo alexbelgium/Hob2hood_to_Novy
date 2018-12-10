@@ -11,7 +11,7 @@ Material needed
 ***************
 - Arduino nano
 - 433 Mhz emitter
-- IR receiver
+- IR receiver : https://www.dfrobot.com/product-351.html (from amazon)
 
 Instructions
 ************
